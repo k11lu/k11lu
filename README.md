@@ -1,16 +1,17 @@
-## Hi there 👋
+# Hi there, I'm Khalid Faisal 👋
 
-<!--
-**k11lu/k11lu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🛡️ **Cybersecurity Student @ Umm Al-Qura University**  
+Focused on Network Security, Digital Forensics, and Penetration Testing.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 💻 Tech Stack & Security Tools
+- **Languages:** Python, C, Bash
+- **Security & Analysis:** Kali Linux, Wireshark, Burp Suite
+- **Networking:** Cisco Packet Tracer, OSPF Routing, VLSM Subnetting
+- **Virtualization:** VMware, VirtualBox
+
+---
+
+### 🌐 Connect with Me
+- LinkedIn: [khalid-f-alzahrani](https://www.linkedin.com/in/khalid-f-alzahrani)
